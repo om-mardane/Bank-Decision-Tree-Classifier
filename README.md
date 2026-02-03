@@ -1,2 +1,32 @@
-# Bank-Decision-Tree-Classifier
-Decision Tree model to predict customer purchase using Bank Marketing dataset.
+# 📊 Bank Marketing — Decision Tree Classifier
+
+## 🎯 Objective
+Build a **Decision Tree Classifier** to predict whether a customer will purchase a bank product based on demographic and behavioral data.
+
+## 📂 Dataset
+- **Source:** UCI Machine Learning Repository — Bank Marketing Dataset  
+- **File:** `bank.csv`
+
+## 🛠️ Technologies Used
+- Python  
+- Jupyter Notebook  
+- Pandas  
+- NumPy  
+- Scikit-Learn  
+- Matplotlib  
+
+## ⚙️ Workflow
+1. Loaded and inspected dataset  
+2. Encoded categorical variables using Label Encoding  
+3. Performed 80–20 train-test split  
+4. Trained Decision Tree with:
+5. Evaluated using:
+- Accuracy
+- Classification Report
+- Confusion Matrix  
+6. Visualized and saved the Decision Tree (`decision_tree.png`)
+
+## ▶️ How to Run
+```bash
+pip install pandas numpy scikit-learn matplotlib
+jupyter lab
