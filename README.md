@@ -1,4 +1,4 @@
-# 📊 Bank Marketing — Decision Tree Classifier
+# 🤖 AI-Powered Bank Customer Subscription Prediction System 💳📊
 
 ## 🎯 Objective
 Build a **Decision Tree Classifier** to predict whether a customer will purchase a bank product based on demographic and behavioral data.
