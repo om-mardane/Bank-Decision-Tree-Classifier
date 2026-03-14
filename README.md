@@ -26,7 +26,13 @@ Build a **Decision Tree Classifier** to predict whether a customer will purchase
 - Confusion Matrix  
 6. Visualized and saved the Decision Tree (`decision_tree.png`)
 
+## ✅ System Compatibility Check
+Run the compatibility checker to make sure your environment is ready:
+```bash
+python check_system.py
+```
+
 ## ▶️ How to Run
 ```bash
-pip install pandas numpy scikit-learn matplotlib
+pip install -r requirements.txt
 jupyter lab
